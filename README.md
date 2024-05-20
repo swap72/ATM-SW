@@ -110,4 +110,3 @@ Show accounts belonging to the same customer:
 This runs a sorting algorithm that prints out the accounts information sorted by account number for a selected customer
 Status API Training Shop Blog About
 
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
